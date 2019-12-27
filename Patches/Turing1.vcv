@@ -19,7 +19,7 @@
         }
       },
       "pos": [
-        115,
+        113,
         0
       ]
     },
@@ -69,7 +69,7 @@
         "external": 0
       },
       "pos": [
-        102,
+        100,
         0
       ]
     },
@@ -81,7 +81,7 @@
       "params": [
         {
           "id": 0,
-          "value": 0.0
+          "value": 0.322499901
         },
         {
           "id": 1,
@@ -1005,7 +1005,7 @@
         ]
       },
       "pos": [
-        33,
+        31,
         0
       ]
     },
@@ -1099,7 +1099,7 @@
       "leftModuleId": 147,
       "data": {
         "panelTheme": 0,
-        "running": false,
+        "running": true,
         "displayDelayNoteMode": true,
         "bpmDetectionMode": false,
         "restartOnStopStartRun": 0,
@@ -1109,7 +1109,7 @@
         "momentaryRunInput": true
       },
       "pos": [
-        12,
+        10,
         0
       ]
     },
@@ -1126,7 +1126,7 @@
       ],
       "rightModuleId": 146,
       "pos": [
-        2,
+        0,
         0
       ]
     },
@@ -1185,7 +1185,7 @@
         "sync_prescaler": 6
       },
       "pos": [
-        90,
+        88,
         0
       ]
     },
@@ -1333,7 +1333,7 @@
         "outputSaturation": 0
       },
       "pos": [
-        78,
+        76,
         0
       ]
     },
@@ -1398,7 +1398,7 @@
         "linearLevel": false
       },
       "pos": [
-        55,
+        50,
         1
       ]
     },
@@ -1461,26 +1461,12 @@
           "value": 0.0
         }
       ],
-      "leftModuleId": 193,
-      "rightModuleId": 191,
+      "rightModuleId": 193,
       "data": {
         "pulses_mode": 0
       },
       "pos": [
-        13,
-        1
-      ]
-    },
-    {
-      "id": 191,
-      "plugin": "ML_modules",
-      "version": "1.0.5",
-      "model": "VoltMeter",
-      "params": [],
-      "leftModuleId": 190,
-      "rightModuleId": 192,
-      "pos": [
-        31,
+        0,
         1
       ]
     },
@@ -1539,7 +1525,7 @@
           "value": 0.0
         }
       ],
-      "leftModuleId": 191,
+      "leftModuleId": 224,
       "rightModuleId": 214,
       "data": {
         "scale": [
@@ -1561,7 +1547,7 @@
         "toggle_mode": 0
       },
       "pos": [
-        39,
+        35,
         1
       ]
     },
@@ -1604,13 +1590,14 @@
           "value": 0.0
         }
       ],
-      "rightModuleId": 190,
+      "leftModuleId": 190,
+      "rightModuleId": 224,
       "data": {
         "lissajous": 0,
         "external": 0
       },
       "pos": [
-        0,
+        18,
         1
       ]
     },
@@ -1648,7 +1635,7 @@
       "leftModuleId": 199,
       "rightModuleId": 203,
       "pos": [
-        95,
+        90,
         1
       ]
     },
@@ -1729,7 +1716,7 @@
         "toggle_mode": 0
       },
       "pos": [
-        68,
+        63,
         1
       ]
     },
@@ -1794,7 +1781,7 @@
         "linearLevel": false
       },
       "pos": [
-        79,
+        74,
         1
       ]
     },
@@ -1824,7 +1811,7 @@
       "leftModuleId": 196,
       "rightModuleId": 199,
       "pos": [
-        89,
+        84,
         1
       ]
     },
@@ -1837,7 +1824,7 @@
       "leftModuleId": 173,
       "rightModuleId": 195,
       "pos": [
-        65,
+        60,
         1
       ]
     },
@@ -1850,7 +1837,7 @@
       "leftModuleId": 197,
       "rightModuleId": 194,
       "pos": [
-        92,
+        87,
         1
       ]
     },
@@ -1899,7 +1886,7 @@
       ],
       "leftModuleId": 194,
       "pos": [
-        101,
+        96,
         1
       ]
     },
@@ -2071,8 +2058,8 @@
         "resetOnRun": false,
         "quantize": 0,
         "uncertainty": false,
-        "stepIndexes0": 15,
-        "stepIndexes1": 3,
+        "stepIndexes0": 5,
+        "stepIndexes1": 12,
         "states0": 2,
         "states1": 2,
         "ranges0": 1,
@@ -2139,9 +2126,10 @@
       "version": "1.0.0",
       "model": "Links",
       "params": [],
+      "leftModuleId": 214,
       "rightModuleId": 173,
       "pos": [
-        51,
+        46,
         1
       ]
     },
@@ -2152,8 +2140,9 @@
       "model": "Splie",
       "params": [],
       "leftModuleId": 192,
+      "rightModuleId": 213,
       "pos": [
-        47,
+        43,
         1
       ]
     },
@@ -2166,7 +2155,7 @@
       "leftModuleId": 195,
       "rightModuleId": 196,
       "pos": [
-        76,
+        71,
         1
       ]
     },
@@ -2202,7 +2191,7 @@
         "noiseRange1": 0.0
       },
       "pos": [
-        51,
+        49,
         2
       ]
     },
@@ -2244,7 +2233,7 @@
       "leftModuleId": 217,
       "rightModuleId": 221,
       "pos": [
-        62,
+        60,
         2
       ]
     },
@@ -2293,7 +2282,7 @@
         "external": 0
       },
       "pos": [
-        82,
+        80,
         2
       ]
     },
@@ -2343,42 +2332,42 @@
       "leftModuleId": 219,
       "rightModuleId": 220,
       "data": {
-        "phi1": 2.30491233,
-        "phi2": -2.00460839,
-        "phi3": 2.0257504,
-        "phi4": 4.06772804,
-        "w1": 0.826179326,
-        "w2": -0.0828676447,
-        "w3": 3.79419684,
-        "w4": 1.87091064,
-        "dx1": -1.33701253,
-        "dy1": 3.30844688,
-        "dx2": 2.74605799,
-        "dy2": 6.73276186,
-        "dx3": 5.81454706,
-        "dy3": 9.79060841,
-        "dx4": -2.0921104,
-        "dy4": 0.662712455,
-        "store_phi1": 2.30491233,
-        "store_phi2": -2.00460839,
-        "store_phi3": 2.0257504,
-        "store_phi4": 4.06772804,
-        "store_w1": 0.826179326,
-        "store_w2": -0.0828676447,
-        "store_w3": 3.79419684,
-        "store_w4": 1.87091064,
-        "store_dx1": -1.33701253,
-        "store_dy1": 3.30844688,
-        "store_dx2": 2.74605799,
-        "store_dy2": 6.73276186,
-        "store_dx3": 5.81454706,
-        "store_dy3": 9.79060841,
-        "store_dx4": -2.0921104,
-        "store_dy4": 0.662712455,
+        "phi1": -2.20063806,
+        "phi2": -0.0573835783,
+        "phi3": -1.80324018,
+        "phi4": -0.942703784,
+        "w1": -1.22228515,
+        "w2": -4.14442015,
+        "w3": 4.12772036,
+        "w4": 3.40403533,
+        "dx1": -0.156811118,
+        "dy1": -1.38335395,
+        "dx2": 6.97743893,
+        "dy2": -1.15189564,
+        "dx3": 1.44222665,
+        "dy3": 9.47061443,
+        "dx4": -10.1949587,
+        "dy4": 1.60204375,
+        "store_phi1": -2.20063806,
+        "store_phi2": -0.0573835783,
+        "store_phi3": -1.80324018,
+        "store_phi4": -0.942703784,
+        "store_w1": -1.22228515,
+        "store_w2": -4.14442015,
+        "store_w3": 4.12772036,
+        "store_w4": 3.40403533,
+        "store_dx1": -0.156811118,
+        "store_dy1": -1.38335395,
+        "store_dx2": 6.97743893,
+        "store_dy2": -1.15189564,
+        "store_dx3": 1.44222665,
+        "store_dy3": 9.47061443,
+        "store_dx4": -10.1949587,
+        "store_dy4": 1.60204375,
         "model": 1
       },
       "pos": [
-        72,
+        70,
         2
       ]
     },
@@ -2692,7 +2681,7 @@
           1,
           1,
           1,
-          1,
+          0,
           1,
           1,
           1,
@@ -2702,6 +2691,19 @@
       "pos": [
         20,
         3
+      ]
+    },
+    {
+      "id": 224,
+      "plugin": "StellareModular",
+      "version": "1.0.0",
+      "model": "BlankPanel",
+      "params": [],
+      "leftModuleId": 193,
+      "rightModuleId": 192,
+      "pos": [
+        31,
+        1
       ]
     }
   ],
@@ -2771,14 +2773,6 @@
       "color": "#c9b70e"
     },
     {
-      "id": 445,
-      "outputModuleId": 190,
-      "outputId": 14,
-      "inputModuleId": 191,
-      "inputId": 0,
-      "color": "#c9b70e"
-    },
-    {
       "id": 446,
       "outputModuleId": 190,
       "outputId": 14,
@@ -2817,14 +2811,6 @@
       "inputModuleId": 193,
       "inputId": 0,
       "color": "#c9b70e"
-    },
-    {
-      "id": 444,
-      "outputModuleId": 190,
-      "outputId": 12,
-      "inputModuleId": 191,
-      "inputId": 1,
-      "color": "#0986ad"
     },
     {
       "id": 458,
