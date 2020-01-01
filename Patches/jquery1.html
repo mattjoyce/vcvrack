@@ -1,0 +1,17 @@
+<html><head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript"> 
+    $(document).ready(function(){
+        $('input[type="file"]').change(function(e){
+            var fileName = e.target.files[0];
+            alert('The file "' + fileName +  '" has been selected.');
+        });
+    });
+</script>
+</head>
+<body>
+    <form>
+        <input type="file">
+        <p><strong>Note:</strong> Choose any file on your computer and its name will be displayed in an alert dialog box.</p>
+    </form>
+</body></html>

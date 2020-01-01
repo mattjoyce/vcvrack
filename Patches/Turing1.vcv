@@ -10,8 +10,8 @@
       "leftModuleId": 7,
       "data": {
         "audio": {
-          "driver": 8,
-          "deviceName": "Headphones Realtek HD Audio (Realtek(R) Audio)",
+          "driver": 1,
+          "deviceName": "hw:HDA Intel PCH,0",
           "offset": 0,
           "maxChannels": 8,
           "sampleRate": 44100,
@@ -1438,7 +1438,7 @@
         },
         {
           "id": 7,
-          "value": 0.166499928
+          "value": 0.23699984
         },
         {
           "id": 8,
@@ -2058,8 +2058,8 @@
         "resetOnRun": false,
         "quantize": 0,
         "uncertainty": false,
-        "stepIndexes0": 5,
-        "stepIndexes1": 12,
+        "stepIndexes0": 11,
+        "stepIndexes1": 9,
         "states0": 2,
         "states1": 2,
         "ranges0": 1,
@@ -2332,38 +2332,38 @@
       "leftModuleId": 219,
       "rightModuleId": 220,
       "data": {
-        "phi1": -2.20063806,
-        "phi2": -0.0573835783,
-        "phi3": -1.80324018,
-        "phi4": -0.942703784,
-        "w1": -1.22228515,
-        "w2": -4.14442015,
-        "w3": 4.12772036,
-        "w4": 3.40403533,
-        "dx1": -0.156811118,
-        "dy1": -1.38335395,
-        "dx2": 6.97743893,
-        "dy2": -1.15189564,
-        "dx3": 1.44222665,
-        "dy3": 9.47061443,
-        "dx4": -10.1949587,
-        "dy4": 1.60204375,
-        "store_phi1": -2.20063806,
-        "store_phi2": -0.0573835783,
-        "store_phi3": -1.80324018,
-        "store_phi4": -0.942703784,
-        "store_w1": -1.22228515,
-        "store_w2": -4.14442015,
-        "store_w3": 4.12772036,
-        "store_w4": 3.40403533,
-        "store_dx1": -0.156811118,
-        "store_dy1": -1.38335395,
-        "store_dx2": 6.97743893,
-        "store_dy2": -1.15189564,
-        "store_dx3": 1.44222665,
-        "store_dy3": 9.47061443,
-        "store_dx4": -10.1949587,
-        "store_dy4": 1.60204375,
+        "phi1": -1.89754212,
+        "phi2": -0.967752934,
+        "phi3": -1.94541824,
+        "phi4": 2.25996113,
+        "w1": 4.2351079,
+        "w2": 2.34485364,
+        "w3": 3.77477932,
+        "w4": -3.62345672,
+        "dx1": -9.89986324,
+        "dy1": 4.89301586,
+        "dx2": -28.0994053,
+        "dy2": 7.1799984,
+        "dx3": 12.7766542,
+        "dy3": -1.77450192,
+        "dx4": -9.16714764,
+        "dy4": 5.49365091,
+        "store_phi1": -1.89754212,
+        "store_phi2": -0.967752934,
+        "store_phi3": -1.94541824,
+        "store_phi4": 2.25996113,
+        "store_w1": 4.2351079,
+        "store_w2": 2.34485364,
+        "store_w3": 3.77477932,
+        "store_w4": -3.62345672,
+        "store_dx1": -9.89986324,
+        "store_dy1": 4.89301586,
+        "store_dx2": -28.0994053,
+        "store_dy2": 7.1799984,
+        "store_dx3": 12.7766542,
+        "store_dy3": -1.77450192,
+        "store_dx4": -9.16714764,
+        "store_dy4": 5.49365091,
         "model": 1
       },
       "pos": [
@@ -2379,11 +2379,11 @@
       "params": [
         {
           "id": 0,
-          "value": 0.0500000007
+          "value": 0.0691999123
         },
         {
           "id": 1,
-          "value": 0.5
+          "value": 0.248000309
         },
         {
           "id": 2,
@@ -2399,7 +2399,7 @@
         },
         {
           "id": 5,
-          "value": -0.0200003125
+          "value": -0.00200029602
         },
         {
           "id": 6,
@@ -2479,7 +2479,7 @@
         },
         {
           "id": 25,
-          "value": 0.0
+          "value": 0.390000343
         },
         {
           "id": 26,
@@ -2487,7 +2487,7 @@
         },
         {
           "id": 27,
-          "value": 0.0
+          "value": 0.825000405
         },
         {
           "id": 28,
@@ -2510,17 +2510,18 @@
           "value": 0.0
         }
       ],
-      "rightModuleId": 223,
+      "leftModuleId": 223,
+      "rightModuleId": 225,
       "data": {
-        "mod_a": 0,
+        "mod_a": 1,
         "mod_b": 0,
         "mod_c": 0,
         "mod_d": 0,
         "mk2": true
       },
       "pos": [
-        0,
-        3
+        120,
+        2
       ]
     },
     {
@@ -2551,7 +2552,7 @@
         },
         {
           "id": 5,
-          "value": 0.0
+          "value": 0.180000007
         },
         {
           "id": 6,
@@ -2583,11 +2584,11 @@
         },
         {
           "id": 13,
-          "value": 0.0
+          "value": 1.03499961
         },
         {
           "id": 14,
-          "value": 0.0
+          "value": 1.67999876
         },
         {
           "id": 15,
@@ -2599,11 +2600,11 @@
         },
         {
           "id": 17,
-          "value": 0.0
+          "value": 1.07999945
         },
         {
           "id": 18,
-          "value": 0.0
+          "value": 1.0199995
         },
         {
           "id": 19,
@@ -2674,7 +2675,7 @@
           "value": 0.0
         }
       ],
-      "leftModuleId": 222,
+      "rightModuleId": 222,
       "data": {
         "running": true,
         "gates": [
@@ -2689,8 +2690,8 @@
         ]
       },
       "pos": [
-        20,
-        3
+        98,
+        2
       ]
     },
     {
@@ -2704,6 +2705,55 @@
       "pos": [
         31,
         1
+      ]
+    },
+    {
+      "id": 225,
+      "plugin": "Fundamental",
+      "version": "1.4.0",
+      "model": "Scope",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": -0.179999858
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 1.22999978
+        },
+        {
+          "id": 4,
+          "value": 6.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 10.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 222,
+      "data": {
+        "lissajous": 0,
+        "external": 0
+      },
+      "pos": [
+        140,
+        2
       ]
     }
   ],
@@ -3107,6 +3157,30 @@
       "inputModuleId": 220,
       "inputId": 0,
       "color": "#c91847"
+    },
+    {
+      "id": 524,
+      "outputModuleId": 222,
+      "outputId": 0,
+      "inputModuleId": 225,
+      "inputId": 0,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 525,
+      "outputModuleId": 223,
+      "outputId": 1,
+      "inputModuleId": 222,
+      "inputId": 5,
+      "color": "#0986ad"
+    },
+    {
+      "id": 526,
+      "outputModuleId": 223,
+      "outputId": 2,
+      "inputModuleId": 222,
+      "inputId": 3,
+      "color": "#c9b70e"
     }
   ]
 }
