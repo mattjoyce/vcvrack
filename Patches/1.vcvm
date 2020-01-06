@@ -1,0 +1,135 @@
+{
+  "id": 211,
+  "plugin": "Geodesics",
+  "version": "1.1.0",
+  "model": "Ions",
+  "params": [
+    {
+      "id": 0,
+      "value": 0.0
+    },
+    {
+      "id": 1,
+      "value": 0.0
+    },
+    {
+      "id": 2,
+      "value": 0.316785276
+    },
+    {
+      "id": 3,
+      "value": 0.406708777
+    },
+    {
+      "id": 4,
+      "value": 0.196871698
+    },
+    {
+      "id": 5,
+      "value": 0.607352734
+    },
+    {
+      "id": 6,
+      "value": 0.745503068
+    },
+    {
+      "id": 7,
+      "value": 0.875149786
+    },
+    {
+      "id": 8,
+      "value": 0.255166531
+    },
+    {
+      "id": 9,
+      "value": 0.0149256587
+    },
+    {
+      "id": 10,
+      "value": 0.670908213
+    },
+    {
+      "id": 11,
+      "value": 0.380233228
+    },
+    {
+      "id": 12,
+      "value": 0.0309671164
+    },
+    {
+      "id": 13,
+      "value": 0.456209004
+    },
+    {
+      "id": 14,
+      "value": 0.191074669
+    },
+    {
+      "id": 15,
+      "value": 0.938144147
+    },
+    {
+      "id": 16,
+      "value": 0.635173142
+    },
+    {
+      "id": 17,
+      "value": 0.505500078
+    },
+    {
+      "id": 18,
+      "value": 0.0
+    },
+    {
+      "id": 19,
+      "value": 0.0
+    },
+    {
+      "id": 20,
+      "value": 0.0
+    },
+    {
+      "id": 21,
+      "value": 0.0
+    },
+    {
+      "id": 22,
+      "value": 0.0
+    },
+    {
+      "id": 23,
+      "value": 0.0
+    },
+    {
+      "id": 24,
+      "value": 0.0
+    },
+    {
+      "id": 25,
+      "value": 0.0
+    },
+    {
+      "id": 26,
+      "value": 0.0
+    },
+    {
+      "id": 27,
+      "value": 0.0
+    }
+  ],
+  "rightModuleId": 209,
+  "data": {
+    "panelTheme": 1,
+    "running": true,
+    "resetOnRun": false,
+    "quantize": 0,
+    "uncertainty": false,
+    "stepIndexes0": 10,
+    "stepIndexes1": 4,
+    "states0": 2,
+    "states1": 2,
+    "ranges0": 1,
+    "ranges1": 1,
+    "leap": false
+  }
+}
