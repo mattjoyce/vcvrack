@@ -19,7 +19,7 @@
         }
       },
       "pos": [
-        123,
+        133,
         0
       ]
     },
@@ -69,7 +69,7 @@
         "external": 0
       },
       "pos": [
-        110,
+        120,
         0
       ]
     },
@@ -81,7 +81,7 @@
       "params": [
         {
           "id": 0,
-          "value": 0.316500127
+          "value": 0.177000135
         },
         {
           "id": 1,
@@ -97,23 +97,23 @@
         },
         {
           "id": 4,
-          "value": 0.720000565
+          "value": 0.775000095
         },
         {
           "id": 5,
-          "value": 0.740999758
+          "value": 0.605999708
         },
         {
           "id": 6,
-          "value": 0.789001048
+          "value": 0.724000216
         },
         {
           "id": 7,
-          "value": 0.83099997
+          "value": 0.425999582
         },
         {
           "id": 8,
-          "value": 0.816000164
+          "value": 1.0
         },
         {
           "id": 9,
@@ -405,11 +405,11 @@
         },
         {
           "id": 81,
-          "value": 0.173999965
+          "value": 0.130499974
         },
         {
           "id": 82,
-          "value": 0.271499991
+          "value": 0.501000047
         },
         {
           "id": 83,
@@ -421,11 +421,11 @@
         },
         {
           "id": 85,
-          "value": 0.124499939
+          "value": 0.110999994
         },
         {
           "id": 86,
-          "value": 0.148500025
+          "value": 0.507000089
         },
         {
           "id": 87,
@@ -437,11 +437,11 @@
         },
         {
           "id": 89,
-          "value": 0.114000022
+          "value": 0.105000012
         },
         {
           "id": 90,
-          "value": 0.26549983
+          "value": 0.515999913
         },
         {
           "id": 91,
@@ -453,11 +453,11 @@
         },
         {
           "id": 93,
-          "value": 0.0855001062
+          "value": 0.0
         },
         {
           "id": 94,
-          "value": 0.156000242
+          "value": 0.519000411
         },
         {
           "id": 95,
@@ -469,7 +469,7 @@
         },
         {
           "id": 97,
-          "value": 0.0899999514
+          "value": 0.0
         },
         {
           "id": 98,
@@ -485,7 +485,7 @@
         },
         {
           "id": 101,
-          "value": 0.289499968
+          "value": 0.0
         },
         {
           "id": 102,
@@ -501,7 +501,7 @@
         },
         {
           "id": 105,
-          "value": 0.259500086
+          "value": 0.0
         },
         {
           "id": 106,
@@ -687,7 +687,7 @@
         ]
       },
       "pos": [
-        53,
+        63,
         0
       ]
     },
@@ -835,7 +835,7 @@
         "outputSaturation": 0
       },
       "pos": [
-        86,
+        96,
         0
       ]
     },
@@ -894,7 +894,7 @@
         "sync_prescaler": 6
       },
       "pos": [
-        98,
+        108,
         0
       ]
     },
@@ -999,7 +999,7 @@
         "momentaryRunInput": true
       },
       "pos": [
-        33,
+        43,
         0
       ]
     },
@@ -1080,7 +1080,7 @@
         "toggle_mode": 0
       },
       "pos": [
-        78,
+        88,
         1
       ]
     },
@@ -1256,7 +1256,7 @@
         },
         {
           "id": 41,
-          "value": -0.75725019
+          "value": 0.0339999162
         },
         {
           "id": 42,
@@ -1280,19 +1280,19 @@
         "length": 8,
         "quantize": 3,
         "audio": 0,
-        "ranges0": 1,
-        "ranges1": 1,
-        "addMode": false,
+        "ranges0": 0,
+        "ranges1": 0,
+        "addMode": true,
         "sources0": 2,
         "sources1": 2,
-        "stepIndex": 7,
+        "stepIndex": 6,
         "pipeBlue": true,
-        "randomCVs0": 0.795053661,
-        "randomCVs1": 0.788399756,
+        "randomCVs0": 0.0821928382,
+        "randomCVs1": 0.801620424,
         "clkSource": 0
       },
       "pos": [
-        57,
+        67,
         1
       ]
     },
@@ -1308,11 +1308,11 @@
         },
         {
           "id": 1,
-          "value": 0.569000065
+          "value": -1.0
         },
         {
           "id": 2,
-          "value": 0.222000018
+          "value": 0.0
         },
         {
           "id": 3,
@@ -1320,7 +1320,7 @@
         },
         {
           "id": 4,
-          "value": 0.0
+          "value": 0.499500006
         },
         {
           "id": 5,
@@ -1330,7 +1330,7 @@
       "leftModuleId": 367,
       "rightModuleId": 215,
       "pos": [
-        97,
+        107,
         1
       ]
     },
@@ -1342,19 +1342,19 @@
       "params": [
         {
           "id": 0,
-          "value": 0.156000078
+          "value": 0.154499978
         },
         {
           "id": 1,
-          "value": 0.204499677
+          "value": 0.5
         },
         {
           "id": 2,
-          "value": 0.181999967
+          "value": 0.5
         },
         {
           "id": 3,
-          "value": 0.194499925
+          "value": 0.171499997
         },
         {
           "id": 4,
@@ -1380,7 +1380,7 @@
       "leftModuleId": 214,
       "rightModuleId": 358,
       "pos": [
-        103,
+        113,
         1
       ]
     },
@@ -1392,19 +1392,19 @@
       "params": [
         {
           "id": 0,
-          "value": 0.159000129
+          "value": 0.165000021
         },
         {
           "id": 1,
-          "value": 0.850999653
+          "value": 0.5
         },
         {
           "id": 2,
-          "value": 0.877000213
+          "value": 0.5
         },
         {
           "id": 3,
-          "value": 0.323500037
+          "value": 0.5
         },
         {
           "id": 4,
@@ -1430,7 +1430,7 @@
       "leftModuleId": 217,
       "rightModuleId": 359,
       "pos": [
-        121,
+        139,
         1
       ]
     },
@@ -1446,11 +1446,11 @@
         },
         {
           "id": 1,
-          "value": -0.327999681
+          "value": -1.0
         },
         {
           "id": 2,
-          "value": 0.143999949
+          "value": 0.0
         },
         {
           "id": 3,
@@ -1458,17 +1458,16 @@
         },
         {
           "id": 4,
-          "value": 0.0660008565
+          "value": 0.174000829
         },
         {
           "id": 5,
           "value": 0.0
         }
       ],
-      "leftModuleId": 358,
       "rightModuleId": 216,
       "pos": [
-        115,
+        133,
         1
       ]
     },
@@ -1548,7 +1547,7 @@
         },
         {
           "id": 17,
-          "value": 0.489999831
+          "value": 0.507999539
         },
         {
           "id": 18,
@@ -1599,16 +1598,16 @@
         "resetOnRun": false,
         "quantize": 3,
         "uncertainty": false,
-        "stepIndexes0": 11,
-        "stepIndexes1": 5,
+        "stepIndexes0": 3,
+        "stepIndexes1": 3,
         "states0": 1,
         "states1": 1,
-        "ranges0": 1,
-        "ranges1": 1,
-        "leap": false
+        "ranges0": 0,
+        "ranges1": 0,
+        "leap": true
       },
       "pos": [
-        64,
+        74,
         2
       ]
     },
@@ -1668,7 +1667,6 @@
         }
       ],
       "leftModuleId": 218,
-      "rightModuleId": 220,
       "data": {
         "scale": [
           0,
@@ -1689,7 +1687,7 @@
         "toggle_mode": 0
       },
       "pos": [
-        83,
+        93,
         2
       ]
     },
@@ -1705,11 +1703,11 @@
         },
         {
           "id": 1,
-          "value": 0.598999679
+          "value": -1.0
         },
         {
           "id": 2,
-          "value": 0.279000282
+          "value": 0.0
         },
         {
           "id": 3,
@@ -1717,17 +1715,16 @@
         },
         {
           "id": 4,
-          "value": 0.180000052
+          "value": 0.176500097
         },
         {
           "id": 5,
           "value": 0.0
         }
       ],
-      "leftModuleId": 219,
       "rightModuleId": 221,
       "pos": [
-        91,
+        107,
         2
       ]
     },
@@ -1739,19 +1736,19 @@
       "params": [
         {
           "id": 0,
-          "value": 0.126000106
+          "value": 0.168000013
         },
         {
           "id": 1,
-          "value": 0.172499999
+          "value": 0.5
         },
         {
           "id": 2,
-          "value": 0.190999985
+          "value": 0.5
         },
         {
           "id": 3,
-          "value": 0.147999927
+          "value": 0.5
         },
         {
           "id": 4,
@@ -1775,9 +1772,9 @@
         }
       ],
       "leftModuleId": 220,
-      "rightModuleId": 360,
+      "rightModuleId": 361,
       "pos": [
-        97,
+        113,
         2
       ]
     },
@@ -1793,11 +1790,11 @@
         },
         {
           "id": 1,
-          "value": -0.246999726
+          "value": -0.906999767
         },
         {
           "id": 2,
-          "value": 0.187499359
+          "value": 0.503499866
         },
         {
           "id": 3,
@@ -1805,7 +1802,7 @@
         },
         {
           "id": 4,
-          "value": 0.151499957
+          "value": 0.0
         },
         {
           "id": 5,
@@ -1815,7 +1812,7 @@
       "leftModuleId": 225,
       "rightModuleId": 224,
       "pos": [
-        117,
+        133,
         2
       ]
     },
@@ -1827,19 +1824,19 @@
       "params": [
         {
           "id": 0,
-          "value": 0.180000141
+          "value": 0.170999974
         },
         {
           "id": 1,
-          "value": 0.518000007
+          "value": 0.5
         },
         {
           "id": 2,
-          "value": 0.468999743
+          "value": 0.5
         },
         {
           "id": 3,
-          "value": 0.053499952
+          "value": 0.5
         },
         {
           "id": 4,
@@ -1863,9 +1860,9 @@
         }
       ],
       "leftModuleId": 223,
-      "rightModuleId": 361,
+      "rightModuleId": 360,
       "pos": [
-        123,
+        139,
         2
       ]
     },
@@ -1924,7 +1921,7 @@
           "value": 0.0
         }
       ],
-      "leftModuleId": 360,
+      "leftModuleId": 361,
       "rightModuleId": 223,
       "data": {
         "scale": [
@@ -1946,7 +1943,7 @@
         "toggle_mode": 0
       },
       "pos": [
-        109,
+        125,
         2
       ]
     },
@@ -2099,7 +2096,7 @@
         "mk2": true
       },
       "pos": [
-        13,
+        23,
         1
       ]
     },
@@ -2111,11 +2108,11 @@
       "params": [
         {
           "id": 0,
-          "value": -0.617999911
+          "value": 0.0420001298
         },
         {
           "id": 1,
-          "value": 0.714000404
+          "value": 0.0260000136
         },
         {
           "id": 2,
@@ -2146,44 +2143,45 @@
           "value": 0.0
         }
       ],
+      "leftModuleId": 373,
       "rightModuleId": 227,
       "data": {
-        "phi1": -1.14913058,
-        "phi2": -2.23770738,
-        "phi3": -4.6427269,
-        "phi4": -0.715788782,
-        "w1": -12.3383369,
-        "w2": -5.13927174,
-        "w3": -2.96979785,
-        "w4": 16.1576729,
-        "dx1": 0.0,
-        "dy1": 0.0,
-        "dx2": 0.0,
-        "dy2": 0.0,
-        "dx3": 0.0,
-        "dy3": 0.0,
-        "dx4": 0.0,
-        "dy4": 0.0,
-        "store_phi1": -1.14913058,
-        "store_phi2": -2.23770738,
-        "store_phi3": -4.6427269,
-        "store_phi4": -0.715788782,
-        "store_w1": -12.3383369,
-        "store_w2": -5.13927174,
-        "store_w3": -2.96979785,
-        "store_w4": 16.1576729,
-        "store_dx1": 0.0,
-        "store_dy1": 0.0,
-        "store_dx2": 0.0,
-        "store_dy2": 0.0,
-        "store_dx3": 0.0,
-        "store_dy3": 0.0,
-        "store_dx4": 0.0,
-        "store_dy4": 0.0,
+        "phi1": -0.312397599,
+        "phi2": -1.2376523,
+        "phi3": 0.832256854,
+        "phi4": 4.73432922,
+        "w1": -3.04502273,
+        "w2": 5.3473525,
+        "w3": 16.1925163,
+        "w4": 18.2300987,
+        "dx1": -2.03258371,
+        "dy1": 6.66661501,
+        "dx2": -8.04582405,
+        "dy2": -5.19932175,
+        "dx3": -10.4577589,
+        "dy3": -5.32099295,
+        "dx4": -7.92729807,
+        "dy4": -4.97514343,
+        "store_phi1": -0.312397599,
+        "store_phi2": -1.2376523,
+        "store_phi3": 0.832256854,
+        "store_phi4": 4.73432922,
+        "store_w1": -3.04502273,
+        "store_w2": 5.3473525,
+        "store_w3": 16.1925163,
+        "store_w4": 18.2300987,
+        "store_dx1": -2.03258371,
+        "store_dy1": 6.66661501,
+        "store_dx2": -8.04582405,
+        "store_dy2": -5.19932175,
+        "store_dx3": -10.4577589,
+        "store_dy3": -5.32099295,
+        "store_dx4": -7.92729807,
+        "store_dy4": -4.97514343,
         "model": 0
       },
       "pos": [
-        3,
+        13,
         1
       ]
     },
@@ -2204,7 +2202,7 @@
         "sampletype": 4
       },
       "pos": [
-        52,
+        62,
         2
       ]
     },
@@ -2225,7 +2223,7 @@
         "sampletype": 4
       },
       "pos": [
-        48,
+        58,
         2
       ]
     },
@@ -2378,7 +2376,7 @@
         "mk2": true
       },
       "pos": [
-        35,
+        45,
         1
       ]
     },
@@ -2390,7 +2388,7 @@
       "params": [
         {
           "id": 0,
-          "value": 0.819999695
+          "value": 0.517000318
         },
         {
           "id": 1,
@@ -2404,7 +2402,7 @@
         "holdTrigOut": 0
       },
       "pos": [
-        33,
+        43,
         2
       ]
     },
@@ -2453,7 +2451,7 @@
         "external": 0
       },
       "pos": [
-        0,
+        10,
         2
       ]
     },
@@ -2465,7 +2463,7 @@
       "params": [
         {
           "id": 0,
-          "value": 0.476500303
+          "value": 0.480999619
         },
         {
           "id": 1,
@@ -2479,7 +2477,7 @@
         "holdTrigOut": 0
       },
       "pos": [
-        28,
+        38,
         2
       ]
     },
@@ -2500,7 +2498,7 @@
         "sampletype": 4
       },
       "pos": [
-        56,
+        66,
         2
       ]
     },
@@ -2521,7 +2519,7 @@
         "sampletype": 5
       },
       "pos": [
-        60,
+        70,
         2
       ]
     },
@@ -2557,7 +2555,7 @@
         },
         {
           "id": 6,
-          "value": 0.706000686
+          "value": 0.78700155
         },
         {
           "id": 7,
@@ -2569,7 +2567,7 @@
         },
         {
           "id": 9,
-          "value": 0.708092272
+          "value": 0.859592259
         },
         {
           "id": 10,
@@ -2594,7 +2592,7 @@
         "poly_channel_offset": -1
       },
       "pos": [
-        13,
+        23,
         2
       ]
     },
@@ -2606,7 +2604,7 @@
       "params": [
         {
           "id": 0,
-          "value": 0.494999886
+          "value": 0.487000257
         },
         {
           "id": 1,
@@ -2620,7 +2618,7 @@
         "holdTrigOut": 0
       },
       "pos": [
-        43,
+        53,
         2
       ]
     },
@@ -2632,7 +2630,7 @@
       "params": [
         {
           "id": 0,
-          "value": 0.494999886
+          "value": 0.493001372
         },
         {
           "id": 1,
@@ -2646,7 +2644,7 @@
         "holdTrigOut": 0
       },
       "pos": [
-        38,
+        48,
         2
       ]
     },
@@ -2657,9 +2655,8 @@
       "model": "MonoVUmeter",
       "params": [],
       "leftModuleId": 215,
-      "rightModuleId": 217,
       "pos": [
-        113,
+        123,
         1
       ]
     },
@@ -2671,7 +2668,7 @@
       "params": [],
       "leftModuleId": 216,
       "pos": [
-        131,
+        149,
         1
       ]
     },
@@ -2681,10 +2678,9 @@
       "version": "1.0.3",
       "model": "MonoVUmeter",
       "params": [],
-      "leftModuleId": 221,
-      "rightModuleId": 225,
+      "leftModuleId": 224,
       "pos": [
-        107,
+        149,
         2
       ]
     },
@@ -2694,9 +2690,10 @@
       "version": "1.0.3",
       "model": "MonoVUmeter",
       "params": [],
-      "leftModuleId": 224,
+      "leftModuleId": 221,
+      "rightModuleId": 225,
       "pos": [
-        133,
+        123,
         2
       ]
     },
@@ -2709,7 +2706,7 @@
       "leftModuleId": 342,
       "rightModuleId": 213,
       "pos": [
-        55,
+        65,
         1
       ]
     },
@@ -2722,7 +2719,7 @@
       "leftModuleId": 227,
       "rightModuleId": 342,
       "pos": [
-        33,
+        43,
         1
       ]
     },
@@ -2766,7 +2763,7 @@
         "range_scale": 5.0
       },
       "pos": [
-        86,
+        96,
         1
       ]
     },
@@ -2825,7 +2822,7 @@
           true,
           true,
           true,
-          true,
+          false,
           true,
           true,
           true,
@@ -2834,7 +2831,7 @@
         ]
       },
       "pos": [
-        89,
+        99,
         1
       ]
     },
@@ -2904,7 +2901,7 @@
       "leftModuleId": 370,
       "rightModuleId": 195,
       "pos": [
-        16,
+        26,
         0
       ]
     },
@@ -2953,8 +2950,68 @@
         "external": 0
       },
       "pos": [
-        3,
+        13,
         0
+      ]
+    },
+    {
+      "id": 371,
+      "plugin": "SubmarineFree",
+      "version": "1.1.0",
+      "model": "TM-105",
+      "params": [],
+      "pos": [
+        170,
+        0
+      ]
+    },
+    {
+      "id": 373,
+      "plugin": "Fundamental",
+      "version": "1.4.0",
+      "model": "Scope",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": -1.49999928
+        },
+        {
+          "id": 2,
+          "value": -0.0
+        },
+        {
+          "id": 3,
+          "value": -1.17999661
+        },
+        {
+          "id": 4,
+          "value": 6.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        }
+      ],
+      "rightModuleId": 230,
+      "data": {
+        "lissajous": 0,
+        "external": 0
+      },
+      "pos": [
+        0,
+        1
       ]
     }
   ],
@@ -3136,14 +3193,6 @@
       "color": "#0986ad"
     },
     {
-      "id": 550,
-      "outputModuleId": 219,
-      "outputId": 0,
-      "inputModuleId": 220,
-      "inputId": 0,
-      "color": "#c91847"
-    },
-    {
       "id": 552,
       "outputModuleId": 224,
       "outputId": 0,
@@ -3184,14 +3233,6 @@
       "color": "#c9b70e"
     },
     {
-      "id": 557,
-      "outputModuleId": 225,
-      "outputId": 0,
-      "inputModuleId": 223,
-      "inputId": 0,
-      "color": "#0c8e15"
-    },
-    {
       "id": 558,
       "outputModuleId": 195,
       "outputId": 1,
@@ -3206,14 +3247,6 @@
       "inputModuleId": 218,
       "inputId": 2,
       "color": "#0986ad"
-    },
-    {
-      "id": 565,
-      "outputModuleId": 227,
-      "outputId": 0,
-      "inputModuleId": 192,
-      "inputId": 5,
-      "color": "#0c8e15"
     },
     {
       "id": 544,
@@ -3584,22 +3617,6 @@
       "color": "#0c8e15"
     },
     {
-      "id": 564,
-      "outputModuleId": 195,
-      "outputId": 2,
-      "inputModuleId": 367,
-      "inputId": 2,
-      "color": "#c9b70e"
-    },
-    {
-      "id": 914,
-      "outputModuleId": 367,
-      "outputId": 2,
-      "inputModuleId": 227,
-      "inputId": 0,
-      "color": "#0986ad"
-    },
-    {
       "id": 560,
       "outputModuleId": 342,
       "outputId": 0,
@@ -3630,6 +3647,134 @@
       "inputModuleId": 344,
       "inputId": 1,
       "color": "#c9b70e"
+    },
+    {
+      "id": 550,
+      "outputModuleId": 219,
+      "outputId": 0,
+      "inputModuleId": 367,
+      "inputId": 2,
+      "color": "#c91847"
+    },
+    {
+      "id": 915,
+      "outputModuleId": 367,
+      "outputId": 2,
+      "inputModuleId": 220,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "id": 557,
+      "outputModuleId": 225,
+      "outputId": 0,
+      "inputModuleId": 367,
+      "inputId": 3,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 916,
+      "outputModuleId": 367,
+      "outputId": 3,
+      "inputModuleId": 223,
+      "inputId": 0,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 917,
+      "outputModuleId": 195,
+      "outputId": 3,
+      "inputModuleId": 218,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 928,
+      "outputModuleId": 230,
+      "outputId": 9,
+      "inputModuleId": 353,
+      "inputId": 0,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 929,
+      "outputModuleId": 230,
+      "outputId": 6,
+      "inputModuleId": 354,
+      "inputId": 0,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 930,
+      "outputModuleId": 230,
+      "outputId": 3,
+      "inputModuleId": 343,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 931,
+      "outputModuleId": 230,
+      "outputId": 0,
+      "inputModuleId": 345,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "id": 932,
+      "outputModuleId": 230,
+      "outputId": 9,
+      "inputModuleId": 373,
+      "inputId": 0,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 933,
+      "outputModuleId": 230,
+      "outputId": 6,
+      "inputModuleId": 373,
+      "inputId": 1,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 565,
+      "outputModuleId": 227,
+      "outputId": 0,
+      "inputModuleId": 367,
+      "inputId": 4,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 934,
+      "outputModuleId": 367,
+      "outputId": 4,
+      "inputModuleId": 192,
+      "inputId": 5,
+      "color": "#c91847"
+    },
+    {
+      "id": 936,
+      "outputModuleId": 195,
+      "outputId": 2,
+      "inputModuleId": 227,
+      "inputId": 0,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 937,
+      "outputModuleId": 230,
+      "outputId": 7,
+      "inputModuleId": 218,
+      "inputId": 5,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 938,
+      "outputModuleId": 230,
+      "outputId": 10,
+      "inputModuleId": 213,
+      "inputId": 13,
+      "color": "#c91847"
     }
   ]
 }
